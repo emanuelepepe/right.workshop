@@ -1,6 +1,9 @@
 # Workshop at right.: Candidate Emanuele Pepe
 
 
+#### ERD of SQL-Database
+![ERD_emissions_workshop_EPepe](https://user-images.githubusercontent.com/17638985/120300035-dacdc480-c2cb-11eb-9738-6b095570893f.png)
+
 #### SQL quiry to retrieve the data from database as in ERD:
 
 SELECT revenue,emission,emp_count,sector,country
